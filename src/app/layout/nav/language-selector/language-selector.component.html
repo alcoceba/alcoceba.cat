@@ -1,0 +1,22 @@
+
+<div class="languageSelector" [class.is-active]="menuOpened">
+
+  <a class="menuLanguage" (click)="toggleMenu()" i18n><i class="fa fa-globe hover-light"></i></a>
+
+  <div class="menuLanguageBackdrop" [class.showLangMenu]="showLanguageMenu" (click)="toggleMenu()"></div>
+
+  <ul class="submenuLanguage" [class.showLangMenu]="showLanguageMenu">
+
+    <li [class.active]="langActive === 'ca'" (click)="changeLanguageTo('ca')">
+      <span>Català</span>
+    </li>
+    <li [class.active]="langActive === 'en'" (click)="changeLanguageTo('en')">
+      <span>English</span>
+    </li>
+    <!--<li>-->
+      <!--<span (click)="changeLanguageTo('es')">Castellano</span>-->
+    <!--</li>-->
+
+  </ul>
+
+</div>

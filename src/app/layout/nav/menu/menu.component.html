@@ -1,0 +1,13 @@
+<div class="menu" [class.is-active]="menuOpened">
+  <div class="menuWrapper">
+
+    <a class="hover-light" routerLink="" routerLinkActive="select" [routerLinkActiveOptions]="{ exact: true }" i18n>Galeria</a>
+    <a class="hover-light" routerLink="bio" routerLinkActive="select" i18n>Biografia</a>
+    <a class="hover-light" routerLink="contactar" routerLinkActive="select" i18n>Contactar</a>
+
+    <span class="menuSeparator">|</span>
+
+    <app-language-selector [menuOpened]="menuOpened"></app-language-selector>
+
+  </div>
+</div>

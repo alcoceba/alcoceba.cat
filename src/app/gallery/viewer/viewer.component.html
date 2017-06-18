@@ -1,0 +1,26 @@
+
+<div class="sliderWrapper" *ngIf="picture" [@fadeInOut]>
+
+  <span class="sliderCloseButton" (click)="closeViewer()" i18n>Tancar&nbsp;<i class="fa fa-times"></i></span>
+
+  <div class="slider">
+
+    <div class="sliderImage">
+      <img [src]="s3url + 'gallery/' + picture.src" [alt]="picture.title" [title]="picture.getFullTitle()">
+    </div>
+    <div class="sliderInfo">
+      <p class="sliderTitle">{{picture.title}}</p>
+      <p class="sliderExtra">
+        <span class="sliderExtra_1"><i class="fa fa-paint-brush"></i> <span>{{picture.tec}}</span></span>
+        <span class="sliderExtra_2"><i class="fa fa-expand"></i> <span>{{picture.dimensions}}</span></span>
+      </p>
+      <p class="sliderNav unselectable">
+        <span class="previousPhoto unselectable" (click)="viewPrevious()" i18n><span>&lsaquo;</span> Anterior</span>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <span class="nextPhoto unselectable" (click)="viewNext()" i18n>Següent <span>&rsaquo;</span></span>
+      </p>
+    </div>
+
+  </div>
+
+</div>

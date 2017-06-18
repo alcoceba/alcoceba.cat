@@ -1,0 +1,31 @@
+<div class="contentWrapper">
+
+  <div class="contentTitle">
+    <h1 class="center" i18n>Galeria</h1>
+    <p class="center" i18n>Alcoceba Serrà</p>
+  </div>
+
+  <div class="content gridGallery" id="gridGallery">
+
+
+    <div *ngFor="let picture of pictures; let i = index;" class="gridGalleryBox" (click)="viewPicture(picture)">
+
+      <div class="contentGalleryImage">
+        <img [src]="s3url + 'gallery/' + picture.src" [alt]="picture.title"
+             [title]="picture.getFullTitle()"/>
+      </div>
+
+      <div class="contentGalleryText">
+        <p>{{picture.title}}</p>
+        <span>{{picture.tec}}<br>{{picture.dimensions}}</span>
+      </div>
+    </div>
+
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+<app-gallery-viewer [pictures]="pictures" [picture]="currentPicture"></app-gallery-viewer>
+

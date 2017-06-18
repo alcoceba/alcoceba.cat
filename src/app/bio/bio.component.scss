@@ -1,0 +1,166 @@
+//
+// Links to tabs
+//
+.contentTitleWrapper {
+  position: absolute;
+  width: 100%;
+  background: #fff;
+
+  &.fixedActive {
+    position: fixed;
+    top: 45px;
+    z-index: 9999;
+  }
+  .tabLinks {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    z-index: 9999;
+
+    &.fixedActive {
+      position: fixed;
+      top: 131px;
+      background: #fff;
+      z-index: 9998;
+    }
+
+    ul {
+      max-width: 825px;
+      margin: 0 auto;
+      list-style: none;
+
+      li {
+        width: 25%;
+        display: block;
+        float: left;
+        line-height: 40px;
+
+        span {
+          text-transform: uppercase;
+          font-size: 1.0em;
+          color: #777;
+          text-decoration: none;
+          cursor: pointer;
+
+          &:hover,
+          &.active {
+            color: #333;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+  }
+}
+
+//
+// Bio content
+//
+.contentBio {
+  width: 100%;
+  max-width: inherit;
+  background: #fff;
+
+  &.content.fixedTitle {
+    padding-top: 150px;
+  }
+
+  > div {
+    width: 100%;
+
+    &:nth-child(even) {
+      background: #eee;
+    }
+
+    &:nth-child(odd) {
+      position: relative;
+      -moz-box-shadow: 0 0 3px -1px #333;
+      -webkit-box-shadow: 0 0 3px -1px #333;
+      box-shadow: 0 0 3px -1px #333;
+      background: #fff;
+    }
+
+    &:first-child {
+      -moz-box-shadow: 0 2px 2px -2px #333;
+      -webkit-box-shadow: 0 2px 2px -2px #333;
+      box-shadow: 0 2px 2px -2px #333;
+    }
+    > .tabRow {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px 0;
+    }
+    > .tabRow > * {
+      margin: 10px;
+    }
+    > .tabRow ul {
+      list-style: none;
+    }
+  }
+}
+
+//
+// Quote
+//
+.contentQuote {
+  position: relative;
+  margin: 0;
+  padding: 25px 0 25px;
+  width: 100%;
+  height: 100%;
+  background: #bbb;
+  box-shadow: inset 0 6px 8px -5px #777, inset 0 -6px 5px -5px #777;
+
+  .quoteStudio {
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+
+    p.autorCita {
+      font-size: 0.75em;
+      font-weight: bold;
+      text-align: center;
+    }
+    .cometesGrans {
+      padding: 0 5px 0 0;
+      font-size: 1.5em;
+    }
+
+    p, h2 {
+      text-shadow: none;
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  .contentTitleWrapper {
+    .tabLinks {
+      height: 82px;
+      border-bottom: none;
+      background: #fff;
+
+      ul li {
+        width: 49%;
+        border-bottom: 1px solid #ddd;
+
+        &:nth-child(2n) {
+          border-left: 1px solid #ddd;
+        }
+      }
+
+      &.fixedActive {
+        top: 45px;
+      }
+    }
+  }
+
+  .contentBio.content.fixedTitle {
+    padding-top: 195px;
+  }
+}

@@ -1,0 +1,27 @@
+<nav>
+
+  <!-- top bar -->
+
+  <div class="topBar" [class.is-active]="menuOpened">
+    <div class="topBarContent">
+
+      <div class="c-hamburger c-hamburger--htx" (click)="toggleMenu()" [class.is-active]="menuOpened">
+        <span></span>
+      </div>
+
+      <div class="mobileMenuBackdrop"></div>
+
+      <a href="http://www.alcoceba.cat/">
+        <div class="logo">
+          <img src="assets/nav/alcoceba-logo.png" i18n-title i18n-alt title="Alcoceba Serrà - Olis sobre tela pintats a l'estpàtula" alt="Alcoceba Serrà - Olis sobre tela pintats a l'estpàtula"/>
+        </div>
+      </a>
+
+      <app-menu [menuOpened]="menuOpened"></app-menu>
+
+    </div>
+  </div>
+
+  <!-- end -- top bar -->
+
+</nav>

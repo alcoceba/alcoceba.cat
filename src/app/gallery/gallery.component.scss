@@ -1,0 +1,170 @@
+
+.gridGallery {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  max-width: 100%;
+  height: 100%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 4px 2px 4px;
+  overflow: hidden;
+  background: #fff;
+
+  .gridGalleryLoader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 999;
+    background: url('/assets/nav/pixel-trans.png') repeat;
+
+    > div {
+      position: absolute;
+      top: 175px;
+      width: 100%;
+      font-size: 0.70em;
+      font-family: "Lucida Console", Monaco, monospace;
+      color: #fff;
+
+      img {
+        position: absolute;
+        top: -100px;
+        margin: auto;
+        left: 0;
+        right: 0;
+      }
+
+      &.fixScroll {
+        position: fixed;
+        top: 330px;
+      }
+    }
+  }
+
+  .gridGalleryBoxMargin {
+    margin: 4px;
+  }
+
+  .gridGalleryBox {
+    display: flex;
+    flex-grow: 1;
+    position: relative;
+    float: left;
+    margin: 2px;
+    width: auto;
+    height: 220px;
+    overflow: hidden;
+    cursor: pointer;
+
+    .contentGalleryImage {
+      float: left;
+      height: 100%;
+
+      img {
+        max-height: 220px;
+        height: 100%;
+      }
+    }
+
+    .contentGalleryText {
+      position: relative;
+      float: right;
+      width: 100%;
+      height: 100%;
+      background: #ddd;
+      font-weight: bold;
+
+      p {
+        margin: 0;
+        padding: 20px 5px;
+        background: #777;
+        color: #eee;
+        line-height: 1.1em;
+        font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Lato, 'Segoe UI', Helvetica, Arial, sans-serif;
+        font-weight: 100;
+        font-size: 0.95em;
+        text-shadow: none;
+      }
+
+      span {
+        display: block;
+        position: absolute;
+        bottom: 0;
+        padding: 20px 5px;
+        width: 100%;
+        font-style: italic;
+        color: #4C4C4C;
+        font-size: 0.75em;
+      }
+    }
+
+    &:hover {
+      -moz-transition: opacity 0.25s ease-in-out;
+      -webkit-transition: opacity 0.25s ease-in-out;
+      -o-transition: opacity 0.25s ease-in-out;
+      transition: opacity 0.25s ease-in-out;
+      opacity: 0.5;
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  .gridGallery {
+    display: block;
+
+    .gridGalleryBox {
+      display: block;
+      width: 100%;
+      height: 100%;
+      margin: 5px 0;
+      cursor: default;
+
+      &:hover {
+        opacity: 1;
+      }
+
+      .contentGalleryImage {
+        width: 100%;
+        height: 100%;
+        clear: both;
+
+        img {
+          width: 100%;
+          height: auto;
+          max-height: none;
+        }
+      }
+
+      .contentGalleryText {
+        float: left;
+        width: 100%;
+        background: #888;
+
+        p {
+          padding: 10px 5px 5px;
+          background: #888;
+          font-size: 1.5em;
+        }
+
+        span {
+          position: relative;
+          bottom: inherit;
+          padding: 0 0 10px;
+          background: #888;
+
+          br {
+            content: '';
+
+            &:after {
+              content: ' - ';
+            }
+          }
+        }
+      }
+    }
+  }
+}
+

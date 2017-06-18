@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="7a8cfaf6eec36a305e9692e358ae28c5deab683a" datatype="html">
+        <source>Galeria</source>
+        <target>Galeria</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/gallery/gallery.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/layout/nav/nav.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e5ade6f8a83c1eb1b34de71b0b971cacfa0c1e01" datatype="html">
+        <source>Alcoceba Serrà</source><target>Alcoceba Serrà</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/gallery/gallery.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">190</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="19f36c3d23893a124648941e02b73ddbf7964258" datatype="html">
+        <source>Contactar Josep Alcoceba Serrà</source><target>Contactar Josep Alcoceba Serrà</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact/contact.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ebd30828250f10349c0fc21038800f07e52329f8" datatype="html">
+        <source>Olis sobre tela pintats a l&apos;estpàtula</source><target>Olis sobre tela pintats a l&apos;estpàtula</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact/contact.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c2347b09b6fa317b20e9d1c76d30609d078aac3e" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> Obra permanent a Moià (08180) Barcelona</source><target><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> Obra permanent a Moià (08180) Barcelona</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact/contact.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="856d04162a84c754e919b171a16be0ee6e67924b" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> <x id="START_TAG_SPAN" ctype="x-span"/>E-mail:<x id="CLOSE_TAG_SPAN" ctype="x-span"/> <x id="START_LINK" ctype="x-a"/>info<x id="START_ITALIC_TEXT_1" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/>alcoceba.cat<x id="CLOSE_LINK" ctype="x-a"/></source><target><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> <x id="START_TAG_SPAN" ctype="x-span"/>E-mail:<x id="CLOSE_TAG_SPAN" ctype="x-span"/> <x id="START_LINK" ctype="x-a"/>info<x id="START_ITALIC_TEXT_1" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/>alcoceba.cat<x id="CLOSE_LINK" ctype="x-a"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact/contact.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1a559e0e18b78165e1912d666bca8613694456da" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> <x id="START_TAG_SPAN" ctype="x-span"/>Web:<x id="CLOSE_TAG_SPAN" ctype="x-span"/> www.alcoceba.cat</source><target><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> <x id="START_TAG_SPAN" ctype="x-span"/>Web:<x id="CLOSE_TAG_SPAN" ctype="x-span"/> www.alcoceba.cat</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact/contact.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="687f9b040ed7e6c9a5ac8ad51bba7cb41a537b1f" datatype="html">
+        <source>Per a més informació o per enviar-me un missatge o un comentari, ho pots fer a través del meu e-mail.</source><target>Per a més informació o per enviar-me un missatge o un comentari, ho pots fer a través del meu e-mail.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact/contact.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3ba3996c8c7fbe523eb6b37dd969dae655493ca2" datatype="html">
+        <source>Codi QR</source><target>Codi QR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact/contact.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="73d157735c2cbf0303208df8f285255936d3bfe4" datatype="html">
+        <source>Fes una foto amb el mòbil per veure aquesta informació</source><target>Fes una foto amb el mòbil per veure aquesta informació</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact/contact.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ff9771d6b29f5598d0c981c74f1acccf80d5a28d" datatype="html">
+        <source>Més sobre codis QR</source><target>Més sobre codis QR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact/contact.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4372b32b682e74e53d780b22f503890ff8abb1ee" datatype="html">
+        <source>Biografia</source><target>Biografia</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/layout/nav/nav.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="23a092f7153e25e0204ae636005643f0ebe7a356" datatype="html">
+        <source>Obra principalment per les províncies de Barcelona, Girona, Tarragona i nord d&apos;Itàlia</source><target>Obra principalment per les províncies de Barcelona, Girona, Tarragona i nord d&apos;Itàlia</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="87c479bf4164d6517fa9ffc9bdf0c9fb872de49c" datatype="html">
+        <source>Exposicions</source><target>Exposicions</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e512c426f6c9722142b67f37f30605f27fba3f9c" datatype="html">
+        <source>Premis</source><target>Premis</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8fc124c14f7bdf0936032573fa5abcc8857fe3eb" datatype="html">
+        <source>Associacions</source><target>Associacions</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="82adb656811fa376998e08d976329af1a5a5704c" datatype="html">
+        <source>Bibliografia</source><target>Bibliografia</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a20d555b7430aa194d0309c7c6fa8720baf63a27" datatype="html">
+        <source>
+            Exposicions Coŀlectives
+          </source><target>
+            Exposicions Coŀlectives
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="733526e5fc7ebe69a433b8529fb7e630c052e476" datatype="html">
+        <source>Des de l&apos;any 1976 ha participat a diverses exposicions coŀlectives per les províncies de
+            Barcelona (Moià, Sabadell, Manresa, Granollers, Igualada, Barcelona), Girona (Blanes, Sant Joan les Fonts,
+            Sant Jaume de Llierca, Girona) i Tarragona (El Vendrell), entre altres.</source><target>Des de l&apos;any 1976 ha participat a diverses exposicions coŀlectives per les províncies de
+            Barcelona (Moià, Sabadell, Manresa, Granollers, Igualada, Barcelona), Girona (Blanes, Sant Joan les Fonts,
+            Sant Jaume de Llierca, Girona) i Tarragona (El Vendrell), entre altres.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a084da52cf5e0c1c1a98a510cbc5048e1922121e" datatype="html">
+        <source>Ha participat a altres mostres coŀlectives com:</source><target>Ha participat a altres mostres coŀlectives com:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e060ea5062ff9c38e918c9e3c19393cf41161847" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1998<x id="CLOSE_TAG_SPAN" ctype="x-span"/> XLII Saló Internacional de Besiers (França).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>1998<x id="CLOSE_TAG_SPAN" ctype="x-span"/> XLII Saló Internacional de Besiers (França).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2b2f2b83cc9eac13ef659db151afcbb4f99bab71" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 8è Certamen Internacional Trofeo Remo Brindisi, Ferrara (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 8è Certamen Internacional Trofeo Remo Brindisi, Ferrara (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="71f9e73fabc9ba911463dadc224dca528202ef0e" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Contreras, Almeria.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Contreras, Almeria.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d061a3574a6f8d5bc56d04543b0f6f1ea64e2cfa" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria EA, Santa Ponça (Mallorca).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria EA, Santa Ponça (Mallorca).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6f6a17858392cc3e23dee0ec5f58d87089570b9c" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2001<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Centro Storico de Florencia (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2001<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Centro Storico de Florencia (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="14b2b4075a092f1b8d958f6ea141a957a09e5c03" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria il Ponte IX Premio Internazionale di Arte Europart, Roma (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria il Ponte IX Premio Internazionale di Arte Europart, Roma (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bb163ba4eb9c2f5052df20c97e01ea4a74785aa1" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Hexalfa, Lisboa (Portugal).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Hexalfa, Lisboa (Portugal).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a5a62e9342e7e0a65b3d2e3830f4909e2cbace0b" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Fondo Edo. Tempio 2a Edizione, Biella (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Fondo Edo. Tempio 2a Edizione, Biella (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7c1077a9cc6694e01bf54e0c6d1ced9a1b43f51e" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Androx, Vigo.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Androx, Vigo.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a7d2acce72bdbbb1285cf76749baac822da2da8b" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Benarab, Castelló.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Benarab, Castelló.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="097030142975f09254d712bc9eb83f346a89d1a1" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Artitude 3r Saló International Petit Format, París (França).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Artitude 3r Saló International Petit Format, París (França).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="895c4068d501dea1f519210c21e24cd936ad2a58" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2004<x id="CLOSE_TAG_SPAN" ctype="x-span"/> –i any 2009– Galeria Manuela Talaverano, Sevilla.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2004<x id="CLOSE_TAG_SPAN" ctype="x-span"/> –i any 2009– Galeria Manuela Talaverano, Sevilla.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="155ad0c20b2b64dfa82b0a100e22f0870081a171" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2005<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Museum of Americas Coŀlectiva Homenaje al Quijote, Miami (Estats Units).
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2005<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Museum of Americas Coŀlectiva Homenaje al Quijote, Miami (Estats Units).
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9d01c31acb9525aed43c1af0772919404ec9531e" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2005<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Coŀlectiva Bicentenari Hans-Christian Andersen a les ciutats de Vordinborg,
+              Esbjerg, RibeAnt, Alborg, Herming i Copenhagen (Dinamarca).
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2005<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Coŀlectiva Bicentenari Hans-Christian Andersen a les ciutats de Vordinborg,
+              Esbjerg, RibeAnt, Alborg, Herming i Copenhagen (Dinamarca).
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d7a6566e0358670b460f8dc7f9780d3b0f978a80" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2008<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Frankfurter Buchmesse, Frankfurt (Alemanya).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2008<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Frankfurter Buchmesse, Frankfurt (Alemanya).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bc500585b542791feb0d0a2b1d5ee8027d512646" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2009<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Art22 (Col·lectiva Sant Jordi). Girona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2009<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Art22 (Col·lectiva Sant Jordi). Girona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c0f59565e25e2d463c50bb78da7e0443d1bfc1d0" datatype="html">
+        <source>
+            Exposicions Individuals
+          </source><target>
+            Exposicions Individuals
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b7cb3d74f78eec8eb7b130afa32d44b168a82267" datatype="html">
+        <source>Ha exposat individualment entre altres a:</source><target>Ha exposat individualment entre altres a:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="69b91ba14453e6fe02b217eb7621f6eb6513f99f" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1975<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Banc Mercantil de Manresa. Moià, Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>1975<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Banc Mercantil de Manresa. Moià, Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eb1ed0c48e7e1d57012b5659839333052392ec7c" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1976<x id="CLOSE_TAG_SPAN" ctype="x-span"/> –i any 1982– Caixa de Manlleu. Vic, Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>1976<x id="CLOSE_TAG_SPAN" ctype="x-span"/> –i any 1982– Caixa de Manlleu. Vic, Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ec6df8e7d8aef7dc27b405757edd8ce24fcd7a70" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1987<x id="CLOSE_TAG_SPAN" ctype="x-span"/> –i anys 1997, 2001, 2003 i 2008– El Casal. Moià, Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>1987<x id="CLOSE_TAG_SPAN" ctype="x-span"/> –i anys 1997, 2001, 2003 i 2008– El Casal. Moià, Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="be216c5d474df8939efdd9cfa59a44d844ccc8b3" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1989<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Sala Banca Catalana. Moià, Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>1989<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Sala Banca Catalana. Moià, Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="96b72b23ad936fdfb77ebc5bfa18ee4b95635be4" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Esart Galeria. Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Esart Galeria. Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d1101b6abf3106cdc21a96d7e859cb9e29637198" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2001<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Llum d&apos;Art. El Vendrell, Tarragona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2001<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Llum d&apos;Art. El Vendrell, Tarragona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="55d9cfa665148dce735fd3f011688701e4ac9eaa" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> –i any 2004– Galeria Amat. Lleida.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> –i any 2004– Galeria Amat. Lleida.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e31b9e9ef9945272c9a914b8428433d1c039322c" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2008<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Art22. Girona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2008<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Galeria Art22. Girona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c7927ab1155261e102587e5af4aca1a493776d5b" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2009<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Casa del Poble. Blanes, Girona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2009<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Casa del Poble. Blanes, Girona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="237a996ecbb50cf4a0cb4f63ca28819c5032f23b" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2010<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Castell de Montesquiu. Montesquiu, Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2010<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Castell de Montesquiu. Montesquiu, Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c05118c499828a7287e84fd6570f96f2d3e5185f" datatype="html">
+        <source>
+            Premis i Distincions
+          </source><target>
+            Premis i Distincions
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="66546d61ffcfb9be3811ad8606b6951abcf7bdb1" datatype="html">
+        <source>Des de l&apos;any 1974 fins el 2004, diversos premis de pintura ràpida (una trentena).</source><target>Des de l&apos;any 1974 fins el 2004, diversos premis de pintura ràpida (una trentena).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="13da58ca506ffca9d02adba0975e48ff87e2bc12" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1976<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 5è Premi Especial, pintura ràpida, Moià (Barcelona).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>1976<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 5è Premi Especial, pintura ràpida, Moià (Barcelona).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="59c500965611ba1f5cc46454b78d39b4e9d3a1b9" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1998<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Menció Honorífica, 3r Saló Internacional d&apos;Arts Plàstiques ACEA&apos;S, Barcelona.
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>1998<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Menció Honorífica, 3r Saló Internacional d&apos;Arts Plàstiques ACEA&apos;S, Barcelona.
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="94eb7f69d56cd68386f190dc3dc931fd1de8b8c0" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1998<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Medalla de Bronze, 42è Saló Internacional de Besiers (França).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>1998<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Medalla de Bronze, 42è Saló Internacional de Besiers (França).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2f811a6eb415875b76efa169389ffc090aecb813" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1998<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Bronze, 42è Saló Internacional de Besiers (França).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>1998<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Bronze, 42è Saló Internacional de Besiers (França).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e8aad0a250ec141d62feb5e30c33da05efc46ba8" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>1999<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Clauer de Plata, Número 0, Cercle Artístic del Moianès, Moià (Barcelona).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>1999<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Clauer de Plata, Número 0, Cercle Artístic del Moianès, Moià (Barcelona).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10c5e7df13814fd7304dd444f383b54ae52cef7d" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma d&apos;Honor, VIII Premio Internazionale di Arte Contemporanea, Ferrara
+              (Itàlia).
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2000<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma d&apos;Honor, VIII Premio Internazionale di Arte Contemporanea, Ferrara
+              (Itàlia).
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a8b9d077e604fc6516129beec05a7a7e1a5d4685" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2001<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Títol Accademico Correspondente del Verbano, Accademia Internazionale
+              Greci-Marino, Vercelli (Itàlia).
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2001<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Títol Accademico Correspondente del Verbano, Accademia Internazionale
+              Greci-Marino, Vercelli (Itàlia).
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="85954790d23c1f4a889aa18bb0dd0d14009de578" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2001<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Medalla d&apos;Or, Premi a la Carriera, Casa Editrice Alba, Ferrara (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2001<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Medalla d&apos;Or, Premi a la Carriera, Casa Editrice Alba, Ferrara (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="03ec9203d3451d390c25e17c4eb18e580ef10535" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Premi Prestigi, 1r Saló Internacional d&apos;Arts Plàstiques, Sant Jaume de Llierca
+              (Girona).
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Premi Prestigi, 1r Saló Internacional d&apos;Arts Plàstiques, Sant Jaume de Llierca
+              (Girona).
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6ecbf2a9e56a0f348fdd1f04671f29fb156fc314" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit, IX Premi Internazionale di Arte Europart, Roma (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2002<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit, IX Premi Internazionale di Arte Europart, Roma (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cf1d29301ce9dc64fc8e42a875fb500f080cba20" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Títol i Medalla Prot. núm. 416 GM (Acca. Gentilicio) Acca. Inter. II, Marzocco de
+              Florència (Itàlia).
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Títol i Medalla Prot. núm. 416 GM (Acca. Gentilicio) Acca. Inter. II, Marzocco de
+              Florència (Itàlia).
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fe654d63d5791608a796b1dfc0d950c1a226531c" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Menció d&apos;Honor, Paisatgisme, 1r Saló Internacional petit format ACEA&apos;S,
+              Barcelona.
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Menció d&apos;Honor, Paisatgisme, 1r Saló Internacional petit format ACEA&apos;S,
+              Barcelona.
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="afb9a4e828a48631fe004198010b9a665f86c086" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Premi Alba, Ferrara (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2003<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Premi Alba, Ferrara (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="790bfd9726d734a17b91187c7325bcef5d45ba6d" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2004<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 1r Premi Inter. Europa Stranieri &quot;Sprigiona la Fantasia&quot; Acca. Inter. Santarrita,
+              Torí (Itàlia).
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2004<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 1r Premi Inter. Europa Stranieri &quot;Sprigiona la Fantasia&quot; Acca. Inter. Santarrita,
+              Torí (Itàlia).
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d5183ce6f1592b572bb5d87036d5d94fa5377366" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2004<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit Premi &quot;Leonardo da Vinci&quot; Salone Brunelleschi, Florència
+              (Itàlia).
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2004<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit Premi &quot;Leonardo da Vinci&quot; Salone Brunelleschi, Florència
+              (Itàlia).
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8993c5566e981ac4908ac5c934d5bd49743cd0cf" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2004<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 1r Premi Concurs de Pintura 3a Edició, Sant Jaume de Llierca (Girona).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2004<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 1r Premi Concurs de Pintura 3a Edició, Sant Jaume de Llierca (Girona).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="456797ff0f77c5d41dc96e05015e013a4f4a561a" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2005<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit Michelangelo Buonarroti, Florència (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2005<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit Michelangelo Buonarroti, Florència (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="223b2d7c7dca8cdf378f6e595ea0dd7892403f71" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2006<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit Sandro Botticelli, Florència (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2006<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit Sandro Botticelli, Florència (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8a78eec750d4e4876e5a8cc45bfc2c024c51dd85" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2007<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit Premi Alba, Ferrara (Itàlia).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2007<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit Premi Alba, Ferrara (Itàlia).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d866efa2f00f674339f2e4a7851c23abbf4afe8c" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2007<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit amb Títol Honorífic Premi Internacional &quot;Il Bronzino&quot;, Florència
+              (Itàlia).
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>2007<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma de Mèrit amb Títol Honorífic Premi Internacional &quot;Il Bronzino&quot;, Florència
+              (Itàlia).
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0e96370948100c3cf5899a8f21b39d55e59f89b8" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2008<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 4t Premi Concurs de Pintura, Palau Saverdera (Girona).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2008<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 4t Premi Concurs de Pintura, Palau Saverdera (Girona).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2c5bce34a2acb8cae55a6d2caa96660e7bb17058" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>2008<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma Artista d&apos;Honor VI Saló Internacional, Sant Joan les Fonts (Girona).</source><target><x id="START_TAG_SPAN" ctype="x-span"/>2008<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Diploma Artista d&apos;Honor VI Saló Internacional, Sant Joan les Fonts (Girona).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f679f534982677be2045ceaa284fe3a491a531c8" datatype="html">
+        <source>
+            Associacions Artístiques
+          </source><target>
+            Associacions Artístiques
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cf43e3f98555938cb9280877ae67fb956b0a16b7" datatype="html">
+        <source>Alcoceba i Serrà és membre de la <x id="START_TAG_SPAN" ctype="x-span"/>Federació Internacional d&apos;Artistes Plàstics<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, ACEA&apos;S, de
+            Barcelona, del <x id="START_TAG_SPAN" ctype="x-span"/>Cercle Artístic de Manresa<x id="CLOSE_TAG_SPAN" ctype="x-span"/> i del <x id="START_TAG_SPAN" ctype="x-span"/>Cercle Artístic del Moianès<x id="CLOSE_TAG_SPAN" ctype="x-span"/> del
+            qual en va ser president des del juliol de 1993 fins a l&apos;octubre de 1999.</source><target>Alcoceba i Serrà és membre de la <x id="START_TAG_SPAN" ctype="x-span"/>Federació Internacional d&apos;Artistes Plàstics<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, ACEA&apos;S, de
+            Barcelona, del <x id="START_TAG_SPAN" ctype="x-span"/>Cercle Artístic de Manresa<x id="CLOSE_TAG_SPAN" ctype="x-span"/> i del <x id="START_TAG_SPAN" ctype="x-span"/>Cercle Artístic del Moianès<x id="CLOSE_TAG_SPAN" ctype="x-span"/> del
+            qual en va ser president des del juliol de 1993 fins a l&apos;octubre de 1999.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="79c2d99adaa86b33a479defd001225480c6f0011" datatype="html">
+        <source>
+            Bibliografia
+          </source><target>
+            Bibliografia
+          </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9b7c1397f4c7358734b58047382831c64b92b57e" datatype="html">
+        <source>Alcoceba i Serrà gaudeix d&apos;una àmplia bibliografia entre la que hi destaca:</source><target>Alcoceba i Serrà gaudeix d&apos;una àmplia bibliografia entre la que hi destaca:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d579f992eb46cbf8b1e2e2904502752a254df5d5" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Guia de Arte<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 1995/96, 1998, 2001 i 2005. Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>Guia de Arte<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 1995/96, 1998, 2001 i 2005. Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5193a54c5ce67a71c20f6cc7d7d66a1d473165ab" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Catálogo Nacional de Arte CANART<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 1997/98 i 2000/05. Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>Catálogo Nacional de Arte CANART<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 1997/98 i 2000/05. Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">161</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="59830cb22266635174d5e7d093f0bdfc617af0d7" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Arte della Stampa<x id="CLOSE_TAG_SPAN" ctype="x-span"/>. Edizione 2001. Itàlia.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>Arte della Stampa<x id="CLOSE_TAG_SPAN" ctype="x-span"/>. Edizione 2001. Itàlia.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="830988ef46ddc86757c68d18df7766f30dd5f8eb" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Artistas del Siglo XXI<x id="CLOSE_TAG_SPAN" ctype="x-span"/>. Volum II i Volum III. Girona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>Artistas del Siglo XXI<x id="CLOSE_TAG_SPAN" ctype="x-span"/>. Volum II i Volum III. Girona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8f8d72a58e553608956cc42f453cef3b27372e84" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Quién y porqué<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2000 i 2001. Madrid.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>Quién y porqué<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2000 i 2001. Madrid.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="790bb6121da6596f0088179ed7e1f1e4c9c9ceb8" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Graphic Art<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2003. Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>Graphic Art<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2003. Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6f06afec529070cf140bebd9e9d52117e5117af9" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Artistes pel Fòrum de les Cultures Barcelona<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2004. Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>Artistes pel Fòrum de les Cultures Barcelona<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2004. Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="16ac7f723c92f32dda45f7393e54df4b3be21979" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Artistas del Miŀlenium<x id="CLOSE_TAG_SPAN" ctype="x-span"/>. Volum II. Girona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>Artistas del Miŀlenium<x id="CLOSE_TAG_SPAN" ctype="x-span"/>. Volum II. Girona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="43dc12404e3f81ce7168e5a18d80e9f682289cb4" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Catalunya, Color, Poesia i Volum<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2007. Barcelona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>Catalunya, Color, Poesia i Volum<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2007. Barcelona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">168</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dc77fb2254dd8bf9de46b50e43db9a8793ab7bd4" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>Dizionario Enciclopedico Internazionale d&apos;Arte Moderna e Contemporanea<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 2000/01,
+              2001/02, 2002/03, 2003/04, 2004/05 i 2007. Ferrara, Itàlia.
+            </source><target><x id="START_TAG_SPAN" ctype="x-span"/>Dizionario Enciclopedico Internazionale d&apos;Arte Moderna e Contemporanea<x id="CLOSE_TAG_SPAN" ctype="x-span"/> 2000/01,
+              2001/02, 2002/03, 2003/04, 2004/05 i 2007. Ferrara, Itàlia.
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">169</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5baeec6bcbdbd19be83da86ae8947d29e5868252" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>El Arte en su Máxima Expresión<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2012. Edicions Equador. Girona.</source><target><x id="START_TAG_SPAN" ctype="x-span"/>El Arte en su Máxima Expresión<x id="CLOSE_TAG_SPAN" ctype="x-span"/>, 2012. Edicions Equador. Girona.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dd0cf4dc84d837c296d5d0a7c90f284180ae0a10" datatype="html">
+        <source>Diverses publicacions a les revistes <x id="START_TAG_SPAN" ctype="x-span"/>Gal-Art<x id="CLOSE_TAG_SPAN" ctype="x-span"/> (Barcelona) i <x id="START_TAG_SPAN" ctype="x-span"/>Revistart<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+            (Barcelona).</source><target>Diverses publicacions a les revistes <x id="START_TAG_SPAN" ctype="x-span"/>Gal-Art<x id="CLOSE_TAG_SPAN" ctype="x-span"/> (Barcelona) i <x id="START_TAG_SPAN" ctype="x-span"/>Revistart<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+            (Barcelona).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f20ade49bf8bd19b4061e04335c8d5da0fa01548" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>«<x id="CLOSE_TAG_SPAN" ctype="x-span"/>La cerca incansable de plasmar pictòricament la
+      bellesa de la naturalesa, muntanyes, arbres i rius. Masies de pedra en les quals sembla que el temps no passa. La
+      mà de l&apos;artista immortalitza aquella realitat visual; en les quals les sensacions són latents. És com si sentissis
+      la pluja, el sol i el vent. És la feliç comunió de l&apos;ofici del pintor amb la seva sensibilitat visual i l&apos;amor per
+      la terra.<x id="START_TAG_SPAN" ctype="x-span"/>»<x id="CLOSE_TAG_SPAN" ctype="x-span"/></source><target><x id="START_TAG_SPAN" ctype="x-span"/>«<x id="CLOSE_TAG_SPAN" ctype="x-span"/>La cerca incansable de plasmar pictòricament la
+      bellesa de la naturalesa, muntanyes, arbres i rius. Masies de pedra en les quals sembla que el temps no passa. La
+      mà de l&apos;artista immortalitza aquella realitat visual; en les quals les sensacions són latents. És com si sentissis
+      la pluja, el sol i el vent. És la feliç comunió de l&apos;ofici del pintor amb la seva sensibilitat visual i l&apos;amor per
+      la terra.<x id="START_TAG_SPAN" ctype="x-span"/>»<x id="CLOSE_TAG_SPAN" ctype="x-span"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">191</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a928176f3340e5cb9b123bb80112f49177688cdb" datatype="html">
+        <source>Will Yaya - Catalunya Poesia Color i Volum</source><target>Will Yaya - Catalunya Poesia Color i Volum</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/bio/bio.component.ts</context>
+          <context context-type="linenumber">196</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="76986c661be5c3c0cabb0b33abaff326c2d6fb6a" datatype="html">
+        <source>Tancar <x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/></source><target>Tancar <x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/gallery/viewer/viewer.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a75f6dd3a70ca7fab5f089885191eb62e580bdf9" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span"/>‹<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Anterior</source><target><x id="START_TAG_SPAN" ctype="x-span"/>‹<x id="CLOSE_TAG_SPAN" ctype="x-span"/> Anterior</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/gallery/viewer/viewer.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9b704321fd719db703ba2d1e60e928f25d03d16f" datatype="html">
+        <source>Següent <x id="START_TAG_SPAN" ctype="x-span"/>›<x id="CLOSE_TAG_SPAN" ctype="x-span"/></source><target>Següent <x id="START_TAG_SPAN" ctype="x-span"/>›<x id="CLOSE_TAG_SPAN" ctype="x-span"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/gallery/viewer/viewer.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7c9869b090ddc2d34080ed97d6a9351c75ce4c57" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> Idioma</source><target><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> Idioma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/layout/language-selector/language-selector.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9346f2dc729403aa161aa49a94fa40b38faa8db1" datatype="html">
+        <source>Alcoceba Serrà - Olis sobre tela pintats a l&apos;estpàtula</source><target>Alcoceba Serrà - Olis sobre tela pintats a l&apos;estpàtula</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/layout/header/header.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/layout/header/header.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/layout/nav/nav.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/layout/nav/nav.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b72f1df71e6938f7ae8c8b0b9d960742d436df4e" datatype="html">
+        <source>Contactar</source><target>Contactar</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/layout/nav/nav.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="09a964ef50a120e191958e8c4699b8dfc2045772" datatype="html">
+        <source>Alcoceba Serrà  |  Copyright © 2017 Tots els drets reservats  |  info<x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/>alcoceba.cat</source><target>Alcoceba Serrà  |  Copyright © 2017 Tots els drets reservats  |  info<x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/>alcoceba.cat</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/layout/footer/footer.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

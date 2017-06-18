@@ -1,0 +1,136 @@
+
+.languageSelector {
+
+  display: inline;
+
+  //
+  // Botonet per obrir el menú
+  //
+  .menuLanguage {
+    margin-left: 10px;
+    padding: 3px 0 13px;
+    cursor: pointer;
+    top: 2px;
+    position: relative;
+
+    .fa-globe {
+      font-size: 18px;
+      color: white;
+    }
+
+    &.active,
+    &:hover {
+      background-position: 0 14px;
+    }
+  }
+
+  //
+  // Atenuació del fons al obrir el menú
+  //
+  .menuLanguageBackdrop {
+    opacity: 0;
+    background: #000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: all 0.35s ease-out;
+    visibility: hidden;
+
+    &.showLangMenu {
+      opacity: 0.3;
+      visibility: visible;
+    }
+  }
+
+  //
+  // Menú desplegable
+  //
+  .submenuLanguage {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 66px;
+    right: -185px;
+    width: 185px;
+    background: #313131;
+    border: 2px solid #000;
+    padding: 10px 0;
+    transition: all 0.35s ease-out;
+
+    //
+    // Mostra menú deplegat
+    //
+    &.showLangMenu {
+      opacity: 1;
+      visibility: visible;
+      right: 20px;
+    }
+
+    li {
+      list-style: none;
+      text-align: center;
+      padding: 5px;
+      cursor: pointer;
+      transition: all 0.25s ease-in;
+
+      &.active {
+        color: #fff;
+      }
+
+      &:hover {
+        background: #777;
+        color: #eee;
+        transition: none;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  .languageSelector {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    width: 60%;
+    left: -60%;
+    transition: all 0.6s ease-out;
+    padding: 0;
+    border-right: 1px solid #777;
+    background: #313131;
+
+    &.is-active {
+      left: 0;
+    }
+
+    //
+    // No mostrem el botonet perq queda a la barra lateral
+    //
+    .menuLanguage {
+      display: none;
+    }
+
+    //
+    // Opcions idioma
+    //
+    .submenuLanguage {
+      opacity: 1;
+      visibility: visible;
+      position: relative;
+      width: 100%;
+      left: 0;
+      top: 0;
+      border: none;
+      padding: 0;
+
+      li {
+        padding: 10px 0;
+        font-size: 0.95em;
+        border-top: 1px solid #777;
+      }
+    }
+  }
+}

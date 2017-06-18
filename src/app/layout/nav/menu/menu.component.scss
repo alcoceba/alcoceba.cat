@@ -1,0 +1,92 @@
+
+.menu {
+  position: relative;
+  float: right;
+  height: 20px;
+  padding: 13px 55px 13px 0;
+  text-transform: lowercase;
+
+  .menuSeparator {
+    color: #A0A0A0;
+    margin: 0 5px 0 8px;
+  }
+
+  a {
+    margin: 0;
+    padding: 0 10px;
+    height: 75px;
+    text-decoration: none;
+    color: #A0A0A0;
+    font-size: 12px;
+    cursor: pointer;
+
+    &.active,
+    &:hover {
+      color: #FFF;
+      border: none;
+    }
+
+    &.select {
+      color: #FFF;
+    }
+
+    &:focus {
+      outline: 0;
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  .menu {
+    visibility: hidden;
+    opacity: 0;
+    width: 60%;
+    height: auto;
+    float: none;
+    top: 45px;
+    padding: 0;
+    margin: 0;
+    left: -60%;
+    transition: left 0.6s ease-out;
+
+    &.is-active {
+      visibility: visible;
+      opacity: 1;
+      position: fixed;
+      left: 0;
+      top: 0;
+      background: #444;
+    }
+
+    .menuWrapper {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: 10000px;
+      text-align: center;
+      background: none;
+
+      .menuSeparator {
+        display: none;
+      }
+
+      a {
+        display: block;
+        width: 100%;
+        height: auto;
+        padding: 0;
+        font-size: 0.95em;
+        line-height: 50px;
+        text-shadow: none;
+        clear: both;
+        border-bottom: 1px solid #777;
+        background: #313131;
+
+        &:hover {
+          background: #222;
+        }
+      }
+    }
+  }
+}
