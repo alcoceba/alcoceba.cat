@@ -2,23 +2,25 @@
   position: fixed;
   bottom: -100px;
   right: 20px;
-  color: white;
+  color: #969696;
+  cursor: pointer;
 
   .rocket {
-    background: url('/assets/nav/rocket.png') no-repeat bottom center;
-    width: 41px;
-    height: 75px;
-
-  }
-
-  &.take-off {
-    .rocket{
-      background-position: top center;
-    }
+    font-size: 55px;
   }
 
   &.show-button {
     bottom: 20px;
-    transition: all 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);;
+    transition: all 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  }
+
+  &.take-off {
+    bottom: 300px!important;
+    transition: all 500ms ease-out;
+
+    .rocket {
+      opacity: 0;
+      transition: all 500ms ease-out;
+    }
   }
 }

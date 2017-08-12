@@ -37,7 +37,7 @@ nav {
 @media only screen and (max-width: 768px) {
   nav {
     .topBar {
-      transition: all 0.6s ease-out;
+      transition: all 0.4s ease-out;
 
       .mobileMenuBackdrop {
         position: fixed;
@@ -48,7 +48,7 @@ nav {
         height: 40000px;
         width: 100%;
         background: #000;
-        transition: all 0.6s ease-out;
+        transition: all 0.4s ease-out;
       }
 
       &.is-active {
