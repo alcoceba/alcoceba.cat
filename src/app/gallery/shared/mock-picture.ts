@@ -33,12 +33,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Pedraforca",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Pedraforca",
         "tec": "Oil on canvas"
       }]
   },
@@ -53,12 +53,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Atardecer (Moianès)",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Sunset (Moianès)",
         "tec": "Oil on canvas"
       }]
   },
@@ -93,12 +93,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Puente de Sant Miquel de Campmajor (El Parc)",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Sant Miquel de Campmajor (El Parc)",
         "tec": "Oil on canvas"
       }]
   },
@@ -138,7 +138,7 @@ export const PICTURES = [
       },
       {
         "lang": "en",
-        "title": "Paisatge del Moianès",
+        "title": "Moianès landscape",
         "tec": "Oil on canvas"
       }]
   },
@@ -158,7 +158,7 @@ export const PICTURES = [
       },
       {
         "lang": "en",
-        "title": "Paisatge",
+        "title": "Landscape",
         "tec": "Oil on canvas"
       }]
   },
@@ -194,12 +194,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Resclosa del Molí Nou",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Molí Nou",
         "tec": "Oil on canvas"
       }]
   },
@@ -214,12 +214,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "El Montseny",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Montseny",
         "tec": "Oil on canvas"
       }]
   },
@@ -234,12 +234,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Alaró (Mallorca)",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Alaró (Mallorca)",
         "tec": "Oil on canvas"
       }]
   },
@@ -254,12 +254,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Montgarri",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Montgarri",
         "tec": "Oil on canvas"
       }]
   },
@@ -274,12 +274,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Bosc Uzmayo",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Uzmayo Forest",
         "tec": "Oil on canvas"
       }]
   },
@@ -294,12 +294,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Parque del Molí Nou",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Molí Nou Park",
         "tec": "Oil on canvas"
       }]
   },
@@ -315,12 +315,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "El Montseny",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Montseny",
         "tec": "Oil on canvas"
       }]
   },
@@ -336,12 +336,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "El Montseny",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Montseny",
         "tec": "Oil on canvas"
       }]
   },
@@ -357,12 +357,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "El Parc (Moià)",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "El Parc (Moià, The Park)",
         "tec": "Oil on canvas"
       }]
   },
@@ -377,12 +377,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "El Parc (Moià)",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "El Parc (Moià, The Park)",
         "tec": "Oil on canvas"
       }]
   },
@@ -397,12 +397,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Carrer Sant Llorenç (Girona)",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Sant Llorenç Street (Girona)",
         "tec": "Oil on canvas"
       }]
   },
@@ -417,12 +417,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Monells (Girona)",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Monells (Girona)",
         "tec": "Oil on canvas"
       }]
   },
@@ -437,12 +437,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Riu Nevat",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Snowed river",
         "tec": "Oil on canvas"
       }]
   },
@@ -457,12 +457,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Sant Llorenç de Montgai",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Sant Llorenç de Montgai",
         "tec": "Oil on canvas"
       }]
   },
@@ -477,12 +477,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Serra de Segura",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Serra de Segura",
         "tec": "Oil on canvas"
       }]
   },
@@ -497,12 +497,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Paisatge d'Andalusia",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Andalusia Landscape",
         "tec": "Oil on canvas"
       }]
   },
@@ -517,12 +517,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Interior",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Indoor",
         "tec": "Oil on canvas"
       }]
   },
@@ -537,12 +537,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Capella de les Hortes",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Capella de les Hortes",
         "tec": "Oil on canvas"
       }]
   },
@@ -557,12 +557,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Racó de Sant Benet (Bages)",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Sant Benet (Bages)",
         "tec": "Oil on canvas"
       }]
   },
@@ -761,12 +761,12 @@ export const PICTURES = [
     },
       {
         "lang": "es",
-        "title": "Moià (El Parc)",
+        "title": "Pollancres",
         "tec": "Óleo sobre lienzo"
       },
       {
         "lang": "en",
-        "title": "Moià (El Parc)",
+        "title": "Pollancres",
         "tec": "Oil on canvas"
       }
     ]
